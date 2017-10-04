@@ -1,5 +1,3 @@
-package optimizedRadixSort;
-
 final public class MyInteger implements Integral {
 	private int value;
 
