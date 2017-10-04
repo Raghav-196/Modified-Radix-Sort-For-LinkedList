@@ -1,5 +1,3 @@
-package optimizedRadixSort;
-
 import java.util.Arrays;
 
 public class MyLinkedList<E extends Integral> {
